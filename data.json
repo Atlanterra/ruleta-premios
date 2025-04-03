@@ -1,6 +1,4 @@
 {
-    "ganadores": [],
-    "intentos_fallidos": [],
-    "abandonos": [],
-    "ventanas_activas": []
+  "ganadores": [],
+  "intentos_fallidos": []
 }
