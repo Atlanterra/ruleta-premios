@@ -1,4 +1,1 @@
-{
-  "ganadores": [],
-  "intentos_fallidos": []
-}
+{"ganadores":[],"intentos_fallidos":[{"vivienda":"0000","fecha":"03 de abril de 2025 21:59","codigo":"no_reclamado","estado":"no_reclamado","motivo":"agotamiento_intentos","giro":11,"intentos":3,"coordenada":"B4"}],"ventanas_activas":[]}
