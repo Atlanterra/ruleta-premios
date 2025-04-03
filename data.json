@@ -1,1 +1,4 @@
-{"ganadores":[{"vivienda":"1111","fecha_legible":"03 de abril de 2025 03:42","fecha_timestamp":"2025-04-03T01:42:38.410Z","codigo":"ATP-03042025-L0QI","estado":"reclamado","coordenada":"C4","intentos_usados":2},{"vivienda":"0000","fecha_legible":"03 de abril de 2025 03:40","fecha_timestamp":"2025-04-03T01:40:32.983Z","codigo":"ATP-03042025-BRTA","estado":"reclamado","coordenada":"D1","intentos_usados":2},{"vivienda":"1111","fecha_legible":"03 de abril de 2025, 02:59","codigo":"ATP-03042025-P7UH","estado":"reclamado","coordenada":"A5","intentos_usados":2},{"vivienda":"2222","fecha_legible":"03 de abril de 2025, 03:15","codigo":"ATP-03042025-6Q84","estado":"reclamado","coordenada":"E2","intentos_usados":2}],"intentos_fallidos":[{"vivienda":"0000","fecha_legible":"03 de abril de 2025, 02:50","motivo":"agotamiento_intentos","coordenada_solicitada":"E1","intentos":3,"estado":"no_reclamado"},{"vivienda":"1111","fecha_legible":"03 de abril de 2025, 03:41","motivo":"agotamiento_intentos","coordenada_solicitada":"C4","intentos":3,"estado":"no_reclamado"}],"ventanas_activas":[]}
+{
+  "ganadores": [],
+  "intentos_fallidos": []
+}
