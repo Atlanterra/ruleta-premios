@@ -1,1 +1,4 @@
-{"ganadores":[{"vivienda":"0000","fecha":"03 de abril de 2025 10:05","codigo":"ATP-03042025-GHDC","estado":"reclamado","giro":9,"intentos":3,"coordenada":"E5"}],"intentos_fallidos":[{"vivienda":"0000","fecha":"03 de abril de 2025 10:04","codigo":"no_reclamado","estado":"no_reclamado","motivo":"agotamiento_intentos","giro":6,"intentos":3,"coordenada":"F5"},{"vivienda":"0000","fecha":"03 de abril de 2025 11:46","codigo":"no_reclamado","estado":"no_reclamado","motivo":"cierre_abrupto_sin_intentos","giro":0,"intentos":0,"coordenada":"B1"}],"ventanas_activas":[]}
+{
+  "ganadores": [],
+  "intentos_fallidos": []
+}
