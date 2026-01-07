@@ -5,11 +5,11 @@
   "config": {
     "premioPrincipalActivo": true,
     "girosExtrasActivos": true,
-    "maintenanceMode": false,
     "limitePremiosPorVivienda": 1,
     "limiteGlobalDiario": 1,
     "girosExtrasPorVivienda": 2,
     "stockPremioPrincipal": 30,
+    "maintenanceMode": false,
     "probabilidades": [
       15,
       14,
@@ -19,7 +19,8 @@
       15,
       8,
       14
-    ]
+    ],
+    "premioActivoId": null
   },
   "historial": {
     "horas_pico": {},
