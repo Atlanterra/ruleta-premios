@@ -1,1 +1,32 @@
-{"ganadores":[],"intentos_fallidos":[],"ventanas_activas":[],"config":{"premioPrincipalActivo":true,"girosExtrasActivos":true,"limitePremiosPorVivienda":1,"limiteGlobalDiario":2,"girosExtrasPorVivienda":2,"stockPremioPrincipal":30,"probabilidades":[15,14,4,15,15,15,8,14],"maintenanceMode":false},"historial":{"horas_pico":{},"viviendas_activas":{}}}
+{
+  "ganadores": [],
+  "intentos_fallidos": [],
+  "ventanas_activas": [],
+  "config": {
+    "premioPrincipalActivo": true,
+    "girosExtrasActivos": true,
+    "limitePremiosPorVivienda": 1,
+    "limiteGlobalDiario": 2,
+    "girosExtrasPorVivienda": 2,
+    "stockPremioPrincipal": 30,
+    "probabilidades": [
+      15,
+      14,
+      4,
+      15,
+      15,
+      15,
+      8,
+      14
+    ],
+    "maintenanceMode": false
+  },
+  "historial": {
+    "horas_pico": {
+      "19": 1
+    },
+    "viviendas_activas": {
+      "4444": 1
+    }
+  }
+}
