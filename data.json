@@ -1,5 +1,16 @@
 {
-  "ganadores": [],
+  "ganadores": [
+    {
+      "vivienda": "1111",
+      "fecha_legible": "07 de enero de 2026 19:17",
+      "fecha_timestamp": 1767809827638,
+      "codigo": "ATP-1111-07012026-3QQ8",
+      "estado": "reclamado",
+      "giro": 8,
+      "intentos": 2,
+      "coordenada": "C1"
+    }
+  ],
   "intentos_fallidos": [],
   "ventanas_activas": [],
   "config": {
