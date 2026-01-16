@@ -23,7 +23,11 @@
     "premioActivoId": "premio7"
   },
   "historial": {
-    "horas_pico": {},
-    "viviendas_activas": {}
+    "horas_pico": {
+      "2": 1
+    },
+    "viviendas_activas": {
+      "1111": 1
+    }
   }
 }
