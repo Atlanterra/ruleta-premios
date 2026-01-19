@@ -1,6 +1,17 @@
 {
   "ganadores": [],
-  "intentos_fallidos": [],
+  "intentos_fallidos": [
+    {
+      "vivienda": "1115",
+      "fecha": "19 de enero de 2026 18:19",
+      "codigo": "no_reclamado",
+      "estado": "no_reclamado",
+      "motivo": "agotamiento_intentos",
+      "giro": 4,
+      "intentos": 0,
+      "coordenada": "C4"
+    }
+  ],
   "ventanas_activas": [],
   "config": {
     "premioPrincipalActivo": true,
