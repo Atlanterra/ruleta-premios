@@ -5,33 +5,25 @@
   "config": {
     "premioPrincipalActivo": true,
     "girosExtrasActivos": true,
+    "maintenanceMode": false,
     "limitePremiosPorVivienda": 1,
     "limiteGlobalDiario": 1,
     "girosExtrasPorVivienda": 2,
     "stockPremioPrincipal": 30,
-    "viviendasBloqueadas": [
-      "1114"
-    ],
-    "maintenanceMode": false,
     "probabilidades": [
-      0,
-      0,
-      100,
-      0,
-      0,
-      0,
-      0,
-      0
+      15,
+      14,
+      4,
+      15,
+      15,
+      15,
+      8,
+      14
     ],
-    "premioActivoId": null
+    "viviendasBloqueadas": []
   },
   "historial": {
-    "horas_pico": {
-      "17": 6
-    },
-    "viviendas_activas": {
-      "1112": 3,
-      "1114": 3
-    }
+    "horas_pico": {},
+    "viviendas_activas": {}
   }
 }
