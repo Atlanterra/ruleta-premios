@@ -20,7 +20,9 @@
     "limiteGlobalDiario": 1,
     "girosExtrasPorVivienda": 2,
     "stockPremioPrincipal": 30,
-    "viviendasBloqueadas": [],
+    "viviendasBloqueadas": [
+      "1112"
+    ],
     "maintenanceMode": false,
     "probabilidades": [
       0,
