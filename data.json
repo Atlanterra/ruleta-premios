@@ -25,9 +25,11 @@
   },
   "historial": {
     "horas_pico": {
-      "17": 1
+      "17": 1,
+      "20": 1
     },
     "viviendas_activas": {
+      "1112": 1,
       "1114": 1
     }
   }
